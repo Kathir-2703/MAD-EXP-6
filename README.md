@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application Send SMS using Intent.
-Developed by: N.SIDDARTHAN
-Registration Number: 212221040154
+Developed by: KATHIR V.S
+Registration Number: 212221040075
 */
 ```
 AndroidManifest.xml :
@@ -191,9 +191,8 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 ![image](https://github.com/Siddarthan999/MAD-EXP-6-Design-an-Android-Application-Send-SMS-using-Intent/assets/91734840/643e440e-f4a4-4cdb-a5a7-1b3c4a4981f5)
-![image](https://github.com/Siddarthan999/MAD-EXP-6-Design-an-Android-Application-Send-SMS-using-Intent/assets/91734840/63e5efec-6a3b-4238-9b15-359d40332188)
-![image](https://github.com/Siddarthan999/MAD-EXP-6-Design-an-Android-Application-Send-SMS-using-Intent/assets/91734840/628d1b2a-e109-492f-a7da-2b507e91a84e)
-![image](https://github.com/Siddarthan999/MAD-EXP-6-Design-an-Android-Application-Send-SMS-using-Intent/assets/91734840/037a3ea0-c2a9-4b49-9bf5-aee3d50be333)
+![WhatsApp Image 2023-06-06 at 16 31 16](https://github.com/Kathir-2703/MAD-EXP-6/assets/64436376/9906b438-4e8c-48de-af47-57e9bf27e54a)
+![WhatsApp Image 2023-06-06 at 16 31 17](https://github.com/Kathir-2703/MAD-EXP-6/assets/64436376/ed55c3c0-badc-465c-a827-6e687d61a897)
 
 ## RESULT
 Thus, a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
